@@ -22,9 +22,9 @@ The main objective is to monitor simulated security alerts using a SIEM tool, id
 ---
 
 ## ⚙️ Tools Used
-- Splunk Free Trial / ELK Stack (SIEM)
-- Microsoft Excel / Google Sheets
-- Microsoft Word / Google Docs
+- Splunk Free Trial
+- Google Sheets
+- Google Docs
 - GitHub for documentation
 
 ---
@@ -32,7 +32,6 @@ The main objective is to monitor simulated security alerts using a SIEM tool, id
 ## 📊 Key Learning Outcomes
 - Log analysis
 - Alert triage and incident classification
-- SIEM basics
 - Incident reporting and remediation planning
 
 ---
@@ -40,10 +39,10 @@ The main objective is to monitor simulated security alerts using a SIEM tool, id
 ## 📂 Repository Structure
 FUTURE_CS_02/
 │
-├── SOC_Task2_Sample_Logs.txt # Provided log data
-├── Report/ # Incident response reports
+├── Data/ SOC_Task2_Sample_Logs.txt # Provided log data
+├── Reports/ # Incident response reports
 ├── Screenshots/ # Evidence and dashboard screenshots
-├── Classification/ # Alert classification sheets
+├── Logs/ # Alert classification sheets
 └── README.md # Project documentation
 
 ---
