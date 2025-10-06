@@ -18,7 +18,6 @@ The main objective is to monitor simulated security alerts using a SIEM tool, id
 - Incident Response Report (PDF/DOCX)
 - Incident Classification (CSV/Excel)
 - Screenshots of analysis/dashboard
-- Communication draft (optional)
 
 ---
 
