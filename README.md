@@ -1,6 +1,5 @@
 # FUTURE_CS_02
-
-## 📌 Cyber Security Internship - Task 2
+📌 **Cyber Security Internship - Task 2**  
 **Task:** Security Alert Monitoring & Incident Response Simulation  
 **Track:** Cyber Security  
 **Internship Program:** Future Interns  
@@ -14,39 +13,40 @@ The main objective is to monitor simulated security alerts using a SIEM tool, id
 ---
 
 ## ✅ Deliverables
-- SOC_Task2_Sample_Logs.txt (sample log data)
-- Incident Response Report (PDF/DOCX)
-- Incident Classification (CSV/Excel)
-- Screenshots of analysis/dashboard
+- **SOC_Task2_Sample_Logs.txt** – Sample log data provided  
+- **Incident Response Report** – PDF/DOCX format  
+- **Incident Classification** – CSV/Excel format  
+- **Screenshots** – Evidence and dashboard captures  
 
 ---
 
 ## ⚙️ Tools Used
-- Splunk Free Trial
-- Google Sheets
-- Google Docs
-- GitHub for documentation
+- Splunk Free Trial  
+- Google Sheets  
+- Google Docs  
+- GitHub (for documentation)  
 
 ---
 
 ## 📊 Key Learning Outcomes
-- Log analysis
-- Alert triage and incident classification
-- Incident reporting and remediation planning
+- Log analysis and monitoring  
+- Alert triage and incident classification  
+- Incident reporting and remediation planning  
 
 ---
 
 ## 📂 Repository Structure
 FUTURE_CS_02/
-│
-├── Data/ SOC_Task2_Sample_Logs.txt # Provided log data
+├── Data/
+│ └── SOC_Task2_Sample_Logs.txt # Provided log data
 ├── Reports/ # Incident response reports
 ├── Screenshots/ # Evidence and dashboard screenshots
-├── Logs/ # Alert classification sheets
-└── README.md # Project documentation
+├── Analysis/ # Alert classification sheets
+├── README.md # Project documentation
+└── LICENSE # License file
 
 ---
 
 ## ✍️ Author
-- **Name:** Shahana Parveen  
-- **Program:** Future Interns Cyber Security Track  
+**Name:** Shahana Parveen  
+**Program:** Future Interns Cyber Security Track
